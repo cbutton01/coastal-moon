@@ -6,9 +6,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+        <div>
           Coastal Moon
           <br />
           Photography LLC
+        </div>
         </header>
         <div>
           Test
